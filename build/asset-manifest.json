@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcdac445.css",
-    "main.js": "/static/js/main.89888b3e.js",
+    "main.css": "/static/css/main.fb3c57f1.css",
+    "main.js": "/static/js/main.0b17d58f.js",
     "static/js/498.5092ee8d.chunk.js": "/static/js/498.5092ee8d.chunk.js",
     "static/js/703.99d625e5.chunk.js": "/static/js/703.99d625e5.chunk.js",
     "static/js/513.2e6eba38.chunk.js": "/static/js/513.2e6eba38.chunk.js",
     "static/media/iitp.jpg": "/static/media/iitp.b87cbb8b2b87da71d657.jpg",
     "static/media/venugopal_cropped.png": "/static/media/venugopal_cropped.cd7796f05eb42e0d0f78.png",
     "static/media/solid_design.png": "/static/media/solid_design.c1d6daffc2ac19587bc4.png",
-    "static/media/avelo_cropped.png": "/static/media/avelo_cropped.e600d128cabc2fa6feac.png",
     "static/media/1876.png": "/static/media/1876.aed57e994d3f5833ae3f.png",
+    "static/media/avelo_cropped.png": "/static/media/avelo_cropped.e600d128cabc2fa6feac.png",
     "static/media/landing.png": "/static/media/landing.7a8f80bdab670fdfe56b.png",
     "static/media/astro_new_cropped.png": "/static/media/astro_new_cropped.561649f063e3f38b58c4.png",
     "static/media/vchroma.png": "/static/media/vchroma.30c947f58ee76db574bc.png",
@@ -69,6 +69,7 @@
     "static/media/profile-page.png": "/static/media/profile-page.b97e816b5091a9a64dfa.png",
     "static/media/denys.jpg": "/static/media/denys.1b33975a99042a1db172.jpg",
     "static/media/img6.jpg": "/static/media/img6.59029c29194f08079368.jpg",
+    "static/media/glitchcircle.png": "/static/media/glitchcircle.994bcb119737c23b9ab2.png",
     "static/media/Saurabh.jpg": "/static/media/Saurabh.4fda05b8ec5b517ab3fb.jpg",
     "static/media/fabien-bazanegue.jpg": "/static/media/fabien-bazanegue.3c5ff5a0fa1808d7747e.jpg",
     "static/media/landing-page.png": "/static/media/landing-page.bdf48695ada36191ba66.png",
@@ -98,6 +99,7 @@
     "static/media/HCVerma_cropped.jpg": "/static/media/HCVerma_cropped.d5b54413f517ed14bcec.jpg",
     "static/media/MO.jpeg": "/static/media/MO.0b94502d0b5cd6a22929.jpeg",
     "static/media/cp8.jpeg": "/static/media/cp8.834a0afc1954136206b8.jpeg",
+    "static/media/tshirts.png": "/static/media/tshirts.893222046c7d0e96ccb3.png",
     "static/media/nassi1.jpg": "/static/media/nassi1.7cd8c228c1f01a839aa0.jpg",
     "static/media/gokart.jpg": "/static/media/gokart.43d815b9ffecedecdc4d.jpg",
     "static/media/workshops.jpg": "/static/media/workshops.ca6bc709db88ee78d1c7.jpg",
@@ -110,6 +112,7 @@
     "static/media/bodyzorb.jpg": "/static/media/bodyzorb.78f200e9a879ec9ce075.jpg",
     "static/media/recognition.jpg": "/static/media/recognition.d969268cde90ff621e0c.jpg",
     "static/media/ha3.jpeg": "/static/media/ha3.5392c15acdb79af1cdb6.jpeg",
+    "static/media/tshirt.jpeg": "/static/media/tshirt.dd755d94fd7f551c49e4.jpeg",
     "static/media/guesttalks.jpg": "/static/media/guesttalks.59e548655aec8ccbc402.jpg",
     "static/media/ATM7835_Base Guns - DJ Night.jpg": "/static/media/ATM7835_Base Guns - DJ Night.7643c26eb8f992487ac1.jpg",
     "static/media/gfg1.jpg": "/static/media/gfg1.ebb512611e87f941d281.jpg",
@@ -172,14 +175,14 @@
     "static/media/rocket.svg": "/static/media/rocket.e46019d4c7684ff9d35db03b7aae8edd.svg",
     "static/media/github.svg": "/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
     "index.html": "/index.html",
-    "main.dcdac445.css.map": "/static/css/main.dcdac445.css.map",
-    "main.89888b3e.js.map": "/static/js/main.89888b3e.js.map",
+    "main.fb3c57f1.css.map": "/static/css/main.fb3c57f1.css.map",
+    "main.0b17d58f.js.map": "/static/js/main.0b17d58f.js.map",
     "498.5092ee8d.chunk.js.map": "/static/js/498.5092ee8d.chunk.js.map",
     "703.99d625e5.chunk.js.map": "/static/js/703.99d625e5.chunk.js.map",
     "513.2e6eba38.chunk.js.map": "/static/js/513.2e6eba38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcdac445.css",
-    "static/js/main.89888b3e.js"
+    "static/css/main.fb3c57f1.css",
+    "static/js/main.0b17d58f.js"
   ]
 }
